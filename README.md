@@ -1,5 +1,5 @@
 # Pets and Customers
-The purpose of this repo is to practice my plain old Ruby. The code contained here satisfies the iterations below, 
+The purpose of this repo is to practice my plain old Ruby. The code contained here satisfies the iterations below, which come from [this repo](https://github.com/turingschool-examples/mod-1-be-exercises/tree/main/practice_independent_challenges/week3/pets_and_customers), an exercise by Turing School of Software and Design.
 
 ## Iteration 1
 
