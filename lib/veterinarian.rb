@@ -18,7 +18,7 @@ class Veterinarian
   def list_pets
     sorted_pets = @pets.sort_by { |pet| -pet.age }
     sorted_pets.map! { |pet| pet.name }
-    p sorted_pets.join(separator = ", ")
+    sorted_pets.join(separator = ", ")
   end
 
   def count_pets(customer)
