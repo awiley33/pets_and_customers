@@ -17,7 +17,7 @@ RSpec.describe Customer do
     expect(@customer1.pets).to eq([])
   end
   
-  it "can add pets by the #adopt method" do
+  it "can add pets by the #adopt(pet) method" do
     expect(@customer1.pets).to eq([])
     @customer1.adopt(@pet1)
     @customer1.adopt(@pet2)
